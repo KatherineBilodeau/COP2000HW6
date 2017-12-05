@@ -1,1 +1,1 @@
-# COP2000HW6
+This program should read data in from an account file called text data. It should then import that information into an array. The program should ask the user for their username and password, and compare it to the array. When the username and password match, the program should look at the user's status. If the user is an admin, the program should display all of the array in alphabetical order, and if the user is not an admin, the program should just display the user's information. 
